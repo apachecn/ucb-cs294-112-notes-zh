@@ -13,6 +13,14 @@
 
 ## 下载
 
+### PYPI
+
+```
+pip install ucb-cs294-112-notes-zh
+ucb-cs294-112-notes-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### NPM
 
 ```
