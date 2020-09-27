@@ -9,3 +9,14 @@
 * [在线阅读](https://apachecn.github.io/ucb-cs294-112-notes-zh)
 * [ApacheCN 机器学习交流群 629470233](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)
 * [ApacheCN 学习资源](http://www.apachecn.org/)
+
+
+## 下载
+
+### NPM
+
+```
+npm install -g ucb-cserjiusi-yiyier-notes-zh
+ucb-cserjiusi-yiyier-notes-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
