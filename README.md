@@ -4,7 +4,7 @@
 > 
 > 来源：[POST 馆](https://zhuanlan.zhihu.com/c_150977189)
 > 
-> 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
+> 工作进度上越早落后，你就会有越充足的时间赶上。
 
 * [在线阅读](https://apachecn.github.io/ucb-cs294-112-notes-zh)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/ucb-cs294-112-notes-zh/)
